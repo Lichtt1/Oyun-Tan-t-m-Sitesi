@@ -2,7 +2,7 @@ Oyun Tanıtım Portalı
 
 Sevdiğim oyunları (Elden Ring, Cyberpunk 2077 ve The Witcher 3) tanıtmak, oyunların özelliklerini, ekran görüntülerini, karakter sınıflarını ve sistem gereksinimlerini incelemek için yapılan bir oyun tanıtım web sitesi.
 
-Kullanılan şeyler
+Kullanılan şeyler:
 
 HTML
 
@@ -14,30 +14,30 @@ Flask (sonra eklenecek)
 
 PostgreSQL (sonra eklenecek)
 
-Şu anki durum
+Şu anki durum:
 
 Proje şu an taslak aşamasında. Sadece HTML ve CSS ile yapılmış 3 oyun sayfası var:
 
-drive linki: (Buraya kendi Google Drive klasör linkini yapıştırabilirsin)
+1. drive linki: (Buraya kendi Google Drive klasör linkini yapıştırabilirsin)
 
-Oyun - Elden Ring (index.html)
+2. Oyun - Elden Ring (index.html)
 
-Oyun - Cyberpunk 2077 (cyberpunk.html)
+3. Oyun - Cyberpunk 2077 (cyberpunk.html)
 
-Oyun - The Witcher 3 (witcher.html)
+4. Oyun - The Witcher 3 (witcher.html)
 
-Nasıl çalıştırılır
+Nasıl çalıştırılır?
 
 Depoyu bilgisayarına indir:
 
-git clone https://github.com/KULLANICI_ADIN/OyunTanitim.git
+1. git clone https://github.com/KULLANICI_ADIN/OyunTanitim.git
 
 
-Klasörün içine gir.
+2. Klasörün içine gir.
 
-index.html dosyasını tarayıcıda aç (veya VS Code içinde Live Server ile Go Live düğmesine bas).
+3. index.html dosyasını tarayıcıda aç (veya VS Code içinde Live Server ile Go Live düğmesine bas).
 
-Şimdilik başka bir şey kurmaya gerek yok.
+4. Şimdilik başka bir şey kurmaya gerek yok.
 
 Klasör yapısı
 
