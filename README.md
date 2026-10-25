@@ -1,2 +1,63 @@
-# Oyun-Tan-t-m-Sitesi
-BLM2537 Vize Projesi 
+Oyun Tanıtım Portalı
+
+Sevdiğim oyunları (Elden Ring, Cyberpunk 2077 ve The Witcher 3) tanıtmak, oyunların özelliklerini, ekran görüntülerini, karakter sınıflarını ve sistem gereksinimlerini incelemek için yapılan bir oyun tanıtım web sitesi.
+
+Kullanılan şeyler
+
+HTML
+
+CSS
+
+JavaScript (sonra eklenecek)
+
+Flask (sonra eklenecek)
+
+PostgreSQL (sonra eklenecek)
+
+Şu anki durum
+
+Proje şu an taslak aşamasında. Sadece HTML ve CSS ile yapılmış 3 oyun sayfası var:
+
+drive linki: (Buraya kendi Google Drive klasör linkini yapıştırabilirsin)
+
+Oyun - Elden Ring (index.html)
+
+Oyun - Cyberpunk 2077 (cyberpunk.html)
+
+Oyun - The Witcher 3 (witcher.html)
+
+Nasıl çalıştırılır
+
+Depoyu bilgisayarına indir:
+
+git clone https://github.com/KULLANICI_ADIN/OyunTanitim.git
+
+
+Klasörün içine gir.
+
+index.html dosyasını tarayıcıda aç (veya VS Code içinde Live Server ile Go Live düğmesine bas).
+
+Şimdilik başka bir şey kurmaya gerek yok.
+
+Klasör yapısı
+
+OyunTanitim/
+├── css/
+│   └── stil.css
+├── img/
+│   ├── logo.svg
+│   ├── elden-kapak.jpg
+│   ├── elden-galeri-1.jpg
+│   ├── elden-galeri-2.jpg
+│   ├── elden-galeri-3.jpg
+│   ├── elden-savasci.jpg
+│   ├── elden-buyucu.jpg
+│   ├── elden-samuray.jpg
+│   ├── elden-rahip.jpg
+│   ├── elden-hancerci.jpg
+│   ├── cyberpunk-kapak.jpg
+│   └── witcher-kapak.jpg
+├── index.html
+├── cyberpunk.html
+├── witcher.html
+└── README.md
