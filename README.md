@@ -1,5 +1,6 @@
 Oyun Tanıtım Portalı
-Video Linki: https://drive.google.com/file/d/1q2YqodbU7YlSEu0DIdyNLw5QZLCZLjJb/view?usp=sharing
+
+Video Linki: https://drive.google.com/file/d/1HfenD-UO3b42gtnoXb2LIkhmQoaIq0Lw/view?usp=drive_link
 
 Sevdiğim oyunları (Elden Ring, Cyberpunk 2077 ve The Witcher 3) tanıtmak, oyunların özelliklerini, ekran görüntülerini, karakter sınıflarını ve sistem gereksinimlerini incelemek için yapılan bir oyun tanıtım web sitesi.
 
